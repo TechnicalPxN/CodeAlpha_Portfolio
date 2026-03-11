@@ -1,4 +1,4 @@
-const text=["Frontend Developer","Web Designer","JavaScript Developer"]
+const text=["Frontend Developer","Web Designer",".Net Developer"]
 
 let count=0
 let index=0
